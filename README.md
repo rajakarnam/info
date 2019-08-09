@@ -1,1 +1,1 @@
-# info
+#include<stdio.h>
